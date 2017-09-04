@@ -1,3 +1,4 @@
+/*jshint esversion:6*/
 var LetterSequence = function(){}
 
 LetterSequence.prototype.createSequence = function(sequence){
